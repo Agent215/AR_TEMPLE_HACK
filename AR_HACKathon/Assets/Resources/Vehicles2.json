@@ -1,0 +1,31 @@
+{
+  "Vehicles":
+  [
+    {
+      "symbol": "LNC",
+      "name": "Lincoln National Corporation",
+      "price": 4.0,
+      "day_change": 0.3,
+      "market_Cap": 19.8
+    },
+
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin",
+      "price": 4.0,
+      "day_change": 0.3,
+      "market_Cap": 19.8
+    },
+
+    {
+      "symbol": "VGT",
+      "name": "Vanguard Information Technology",
+      "price": 4.0,
+      "day_change": 0.3,
+      "market_Cap": 19.8
+    }
+
+
+  ]
+
+}

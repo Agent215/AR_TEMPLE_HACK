@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="monoploy20" size="0.160000 0.082038" />
+    <ImageTarget name="twenty" size="0.160000 0.068372" />
+    <ImageTarget name="monopoly5" size="0.160000 0.082038" />
+    <ImageTarget name="5dollarbill" size="0.160000 0.070361" />
+    <ImageTarget name="monoppoly1" size="0.160000 0.082038" />
+    <ImageTarget name="dollarBill" size="0.160000 0.069474" />
+  </Tracking>
+</QCARConfig>
